@@ -6,7 +6,7 @@ Today is the day you gonna notice... my profile...
 
 I'm a 27 years old developer who loves to work with Elixir and LiveView, I prefer to make it clear here, just because that's what you'll find mostly around here.
 
-I'm sorry if you are looking for some contributions on other public repositories, that's something that I'd never felt confident to do but, we are working on that.
+I'm sorry if you are looking for some contributions on other public repositories, that's something that I'd never feel confident to do, but, I'm are working on that.
 
 Finally, I have a recomendation, my favorite project: Digistab Store, not just because I write from zero, but it is the first project that I could finish after stop with my self deprecation. And... by the way... I think it's very pretty too. Enough...Enjoy stay.
 <!--
