@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
+ <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali1ariel&layout=compact&theme=midnight-purple&hide=css,java" />
 </a>
+ </div>
 
 <h3 align="center">More about me</h3>
 
