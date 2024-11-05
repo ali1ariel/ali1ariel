@@ -1,9 +1,7 @@
 [![MasterHead](https://img.freepik.com/premium-photo/cute-little-squirrel-working-office-generative-ai_549702-6243.jpg)](https://github.com/ali1ariel)
 
- <div align="center"> 
 ## Welcome here, I'm Alisson
 
- </div>
  <div align="center"> 
 Today is the day you gonna notice... my profile...
 
