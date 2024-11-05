@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 <br/>
 <br/>
-
+<div align="center"> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ali1ariel&layout=compact&theme=midnight-purple&hide=css,java)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 <h3 align="center">More about me</h3>
