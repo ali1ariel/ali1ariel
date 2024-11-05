@@ -1,7 +1,10 @@
 [![MasterHead](https://img.freepik.com/premium-photo/cute-little-squirrel-working-office-generative-ai_549702-6243.jpg)](https://github.com/ali1ariel)
 
+ <div align="center"> 
 ## Welcome here, I'm Alisson
 
+ </div>
+ <div align="center"> 
 Today is the day you gonna notice... my profile...
 
 I'm a 27 years old developer who loves to work with Elixir and LiveView, I prefer to make it clear here, just because that's what you'll find mostly around here.
@@ -9,12 +12,8 @@ I'm a 27 years old developer who loves to work with Elixir and LiveView, I prefe
 I'm sorry if you are looking for some contributions on other public repositories, that's something that I'd never feel confident to do, but, I'm working on it.
 
 Finally, I have a recomendation, my favorite project: Digistab Store, not just because I write from zero, but it is the first project that I could finish after stop with my self deprecation. And... by the way... I think it's very pretty too. Enough...Enjoy stay.
-<!--
-**ali1ariel/ali1ariel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
--->
+ </div>
 <br/>
 <br/>
 
