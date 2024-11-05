@@ -1,4 +1,8 @@
-[![MasterHead](https://img.freepik.com/premium-photo/cute-little-squirrel-working-office-generative-ai_549702-6243.jpg)](https://github.com/ali1ariel)
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://img.freepik.com/premium-photo/cute-little-squirrel-working-office-generative-ai_549702-6243.jpg" />
+</a>
+ </div>
 
 ## Welcome here, I'm Alisson
 
