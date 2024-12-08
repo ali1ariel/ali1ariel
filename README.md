@@ -17,7 +17,9 @@ While I'm still working on building confidence to contribute to other public rep
 Currently, the project of my heart is the Digistab Store - an e-commerce platform built from the ground up using Elixir and LiveView. It is special not just because I wrote it from scratch, but because it made a mark on me: overcoming self-doubt and delivering a complete, polished application, oh, and beautiful too! 
 
 
-Check it out here: [Digistab Store](https://github.com/AlissonMachadoDev/digistab-store)
+Check it out here: 
+- [Code](https://github.com/AlissonMachadoDev/digistab-store)
+- [Site demo](https://digistab-store.alissonmachado.dev)
 
 <br/>
 
