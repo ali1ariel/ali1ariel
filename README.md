@@ -3,7 +3,7 @@
 
 Today is the day you gonna notice... my profile...
 
-I'm a 27 years old developer who loves to work with Elixir and LiveView, I prefer to make it clear here, just because that's what you'll find on here, as they're the technologies where I truly shine and enjoy building solutions.
+I'm a 28 years old developer who loves to work with Elixir and LiveView, I prefer to make it clear here, just because that's what you'll find on here, as they're the technologies where I truly shine and enjoy building solutions.
 
 While I'm still working on building confidence to contribute to other public repositories (not yet, sorry!), I pour my heart into my personal projects. Each one represents a step in my growth as a developer. As this one that I`ll comment below.
 
