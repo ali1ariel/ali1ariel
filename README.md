@@ -1,8 +1,6 @@
 
 ## Welcome here, I'm Alisson! 
 
-Today is the day you gonna notice... my profile...
-
 I'm a 28 years old developer who loves to work with Elixir and LiveView, I prefer to make it clear here, just because that's what you'll find on here, as they're the technologies where I truly shine and enjoy building solutions.
 
 While I'm still working on building confidence to contribute to other public repositories (not yet, sorry!), I pour my heart into my personal projects. Each one represents a step in my growth as a developer. As this one that I`ll comment below.
@@ -14,7 +12,7 @@ Currently, the project of my heart is the Digistab Store - an e-commerce platfor
 
 Check it out here: 
 - [Code](https://github.com/AlissonMachadoDev/digistab-store)
-- [Site demo](https://digistab-store.alissonmachado.dev)
+- [Site demo](https://digistab-store.alissonmachado.dev) [UNAVAILABLE FOR A WHILE - NEEDED TO TURN DOWN RDS]
 
 <br/>
 
@@ -29,6 +27,8 @@ Check it out here:
 -  Actively developing and improving [Digistab Store](https://github.com/AlissonMachadoDev/digistab-store)
 -  Diving deep into the latest LiveView features and best practices (I started with LiveView in 2020)
 -  Exploring new ways to leverage Elixir's concurrency model in real-world applications
+-  Taking a look at Rust (to enhance Elixir performance, of course)
+-  I think I'm liking Ash Framework more than I expected...
 
 ###  Technical Expertise
 
