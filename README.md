@@ -33,6 +33,7 @@ Check it out here:
 ###  Technical Expertise
 
 - Elixir & Phoenix LiveView
+- GraphQL with Absinthe
 - OTP and distributed systems
 - Message queuing with RabbitMQ
 - Data processing with Broadway
