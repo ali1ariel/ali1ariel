@@ -12,8 +12,7 @@ Currently, the project of my heart is the Digistab Store - an e-commerce platfor
 
 Check it out here: 
 - [Code](https://github.com/AlissonMachadoDev/digistab-store)
-- [Site demo](https://digistab-store.alissonmachado.dev) [UNAVAILABLE FOR A WHILE - NEEDED TO TURN DOWN RDS]
-
+- [Site demo](https://digistab-store.alissonmachado.dev)
 <br/>
 
 <div align="center"> 
