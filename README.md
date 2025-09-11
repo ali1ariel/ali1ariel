@@ -15,8 +15,8 @@ I'm that type of person that knows the humanity just survived working together, 
 ###  Featured Projects: 
 
 * Digistab Store
+<br/>
 An e-commerce platform built from the ground up using Elixir and LiveView. It is special not just because I wrote it from scratch, but because it made a mark on me: overcoming self-doubt and delivering a complete, polished application, oh, and beautiful too! There's a extense roadmap of things that I would like to implement on that, but now I know that it will grow with me. Elixir, LiveView, S3 uploads....
-
 
 Check it out here: 
 - [Code](https://github.com/AlissonMachadoDev/digistab-store)
@@ -24,9 +24,11 @@ Check it out here:
 <br/>
 
 * Ratobo (ChatGPT-bot)
+<br/>
   That's my son, Ratobo is a telegram bot with support for OpenAI API that doesn't do a usable thing, it's just for fun, so, via Parameter Store, I define allowed groups, allowed users that can talk with him privately, and a custom prompt that makes him exactly who he is, my son. Elixir Phoenix and RabbitMQ with Broadway.
 
 * alASHandria Library
+<br/>
   My newest project, just to have a little fun with Ash Framework, using ETS tables at the moment, it is burned at every single rise. AshFramework, just it.
 
 ###  Current Focus
